@@ -1,0 +1,23 @@
+h3{
+    background-color: rgb(71, 67, 198);
+}
+p.top{
+    font-size: 20px;
+     line-height: 1.9rem;
+    letter-spacing: 0.4em;
+    word-spacing: 1em; 
+    /* text-transform: uppercase; */
+    /* text-decoration: underline; */
+    font-family: 'Roboto';
+}
+p#bottom{
+    font-size: 30px;
+    font-family: 'Anek Devanagari';
+    font-weight: 300;
+    
+    border: 5px dotted green;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
